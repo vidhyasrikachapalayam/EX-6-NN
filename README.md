@@ -1,4 +1,4 @@
-3>ENTER YOUR NAME</H3>VIDHYASRI.K
+<H3>ENTER YOUR NAME</H3>VIDHYASRI.K
 <H3>ENTER YOUR REGISTER NO.</H3>212222230170
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
@@ -68,4 +68,3 @@ print(classification_rep)
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
 
-Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
