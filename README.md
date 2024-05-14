@@ -16,7 +16,7 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-<H3>Program: </H3>
+## Program: 
 ```
 import numpy as np
 import pandas as pd
@@ -57,11 +57,13 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
+
 ```
 <H3>Output:</H3>
+![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/3554bd3a-3893-409c-84f5-7eee648edc55)
 
-![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/67c62185-b632-464d-ba8e-8a87fcc2ac57)
-![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/ba1ae5e0-db70-45f8-94ed-77beff6fa407)
+![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/9de8cd14-acf2-4a48-aa2c-a00f52c5ee6d)
+
 
 
 
