@@ -1,4 +1,5 @@
-ENTER YOUR NAME:VIDHYASRI.K
+ENTER YOUR NAME: VIDHYASRI.K
+
 ENTER YOUR REGISTER NO.212222230170
 ## EX. NO.6 Heart attack prediction using MLP
 
@@ -60,12 +61,11 @@ print(classification_rep)
 ```
 
 ## Output:
-![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/3554bd3a-3893-409c-84f5-7eee648edc55)
 
-![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/9de8cd14-acf2-4a48-aa2c-a00f52c5ee6d)
-
+![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/6eb0e5be-16af-467b-9e5d-c3775b4f9381)
 
 
+![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/2962ca4a-842c-4fec-9ea6-d4d7fb39a0f0)
 
 ## Results:
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
