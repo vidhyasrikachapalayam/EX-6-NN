@@ -1,10 +1,10 @@
-<H3>ENTER YOUR NAME</H3>VIDHYASRI.K
-<H3>ENTER YOUR REGISTER NO.</H3>212222230170
-<H3>EX. NO.6</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
-<H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
-<H3>Algorithm:</H3>
+ENTER YOUR NAME:VIDHYASRI.K
+ENTER YOUR REGISTER NO.212222230170
+## EX. NO.6 Heart attack prediction using MLP
+
+## Aim:  
+     To construct a  Multi-Layer Perceptron to predict heart attack using Python
+## Algorithm:
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
 Step 2:Load the heart disease dataset from a file using pd.read_csv().<BR>
 Step 3:Separate the features and labels from the dataset using data.iloc values for features (X) and data.iloc[:, -1].values for labels (y).<BR>
@@ -57,9 +57,9 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
-
 ```
-<H3>Output:</H3>
+
+## Output:
 ![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/3554bd3a-3893-409c-84f5-7eee648edc55)
 
 ![image](https://github.com/vidhyasrikachapalayam/EX-6-NN/assets/119477817/9de8cd14-acf2-4a48-aa2c-a00f52c5ee6d)
@@ -67,6 +67,6 @@ print(classification_rep)
 
 
 
-<H3>Results:</H3>
+## Results:
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
 
